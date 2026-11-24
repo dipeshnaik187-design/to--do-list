@@ -1,0 +1,6 @@
+{
+  "name": "ClearDay — Smart Task Manager",
+  "description": "A modern, responsive smart to-do list and productivity dashboard for organizing daily tasks, deadlines, priorities, and progress.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
